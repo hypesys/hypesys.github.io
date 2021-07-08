@@ -27,5 +27,9 @@ exclude:
 
 timezone: America/New_York
 google_analytics: UA-99357652-1
+baseurl: "/rsdha-21"
+production_url : http://hpss.mines.edu/rsdha-21
+BASE_PATH : http://hpss.mines.edu/rsdha-21
 
-relative_permalinks: false
+
+
