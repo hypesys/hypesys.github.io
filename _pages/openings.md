@@ -15,7 +15,7 @@ permalink: /vacancies
 
 
 
-We are always looking for new group members with passion, talent, and grit!
+We are always looking for new group members with passion, talent, and grit! Please check the [research flyer]({{ site.baseurl }}/downloads/belviranli-research-flyer.pdf). If you are interested in doing research in our group, please do not hesitate to [email](mailto:belviranli@mines.com) (*belviranli@mines.edu*).
 
 You will have the chance to work on diversely heterogeneous architectures. You can  be involved in determining the important and interesting research questions, developing analytical performance & resource modeling, developing parallel programming paradigms, facing challenges of autonomous computing.
 
