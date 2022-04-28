@@ -22,7 +22,7 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mines_view.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cs_mines.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cs_mines.ping" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
