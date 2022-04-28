@@ -2,7 +2,7 @@
   headline: "<a href='https://hpss.mines.edu/downloads/dac22.pdf'> Our paper </a> is accepted to appear in DAC'22. The paper proposes an energy-aware neural network inference execution scheme on multi-accelerator heterogeneous SoCs."
 
 - date: August 2021
-  headline: "Our lab  with at Colorado School of Mines were awarded an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124010). We will be developing synthesis based solutions to enable resource-aware execution on diversely heterogeneous architectures. <img src='/images/newspic/nsf_sign.jpg' class='img-responsive' style='max-width: 192px' />"
+  headline: "Our lab was awarded an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124010). We will be developing synthesis based solutions to enable resource-aware execution on diversely heterogeneous architectures. <img src='/images/newspic/nsf_sign.jpg' class='img-responsive' style='max-width: 192px' />"
 
 - date: July 2022
   headline: "Our paper is accepted to appear in MICRO'21. The paper builds a shared memory contention slowdown model for diversely heterogeneous SoCs."
