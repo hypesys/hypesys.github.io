@@ -22,7 +22,7 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cs_mines.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mines_view.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mines_campus.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -36,7 +36,7 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
 </div>
 
 
-TODO: Fill here with 1-2 sentences goals
+TODO: Fill here with 3-5 sentences of goals and summaries??
 
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->

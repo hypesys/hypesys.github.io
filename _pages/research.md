@@ -8,13 +8,39 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+TODO: This part requires more help to explain our works in the lab. Open to all suggestions. I could fill the initial parts since I'm working on those. We can fill the rest. 
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+We, as a group, target high-performance computing for autonomous system. Our research focus is primarily based on heterogeneous architectures, runtime systems, performance modelling, autonomous computing, machine learning acceleration. We target both the computationally-powerful platforms and heterogeneous embedded systems.
 
-Here are some themes and techniques that we currently work on:
+Our primarily goal is to fill out the gaps in heterogeneous computing by creating a system that can both efficiently use the resources on a given computing platform and maximize the effectiveness of accelerators. This is possible thanks to Mehmet's expertise on the area. He finished his post-doctoral study and work as a computer scientist at Oak Ridge National Laboratory (ORNL) on Computer Science and Mathematics Division Department. ORNL holds Summit supercomputer, which is the fastest supercomputer in USA for the last 4 years. His Ph.D. dissertation topic was also "Efficient Execution of Scientific Applications on Heterogeneous Architectures”. We also have multiple Ph.D., master and bachelor students from multiple areas with a deep background that works on our lab. 
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+Our current research topics are listed below:
+
+**Scheduling in heterogeneous architectures:**
+* Balancing performance/energy trade-off in energy-limited systems: We work on running neural network (NN) inference on multiple accelerators of an SoC. Our goal is to enable an energy-performance trade-off with an by distributing layers in a NN between a performance- and a power-efficient accelerator. We first provide an empirical modeling methodology to characterize execution and inter-layer transition times. We then find an optimal layers-to-accelerator mapping by representing the trade-off as a linear programming optimization constraint. We evaluate our approach on the NVIDIA Xavier AGX SoC with commonly used NN models. We use the Z3 SMT solver to find schedules for different energy consumption targets, with up to 98% prediction accuracy.
+
+* Multiple workload scheduling in heterogeneous architectures
+
+* Exploiting multi-accelerators in diversely heterogeneous architectures: We investigate Multi-accelerator Execution (MAE) on diversely heterogeneous embedded systems, where sub-components of a given workload, such as neural network inference, can be assigned to different type of accelerators to achieve a desired latency or energy goal. We first analyze the energy and performance characteristics of execution of neural network layers on different type of accelerators. We then explore energy/performance trade-offs via layer-wise scheduling for neural network inference by considering different layer-to-accelerator mappings. Our empirical results on Jetson Xavier SoCs show that our methodology can provide up to 28% energy/performance trade-off benefit when compared to the case where all layers are assigned to a single accelerator.
+
+
+**Autonomous Systems:**
+* Scheduling and resource management
+
+* Hardware-CPS representation for performance modelling
+
+**GPU Utilization**
+* Designing GPU to NVM data-transfer framework
+
+* 
+
+
+
+
+
+
+
+<!-- **Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
 
 
 **Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
@@ -43,4 +69,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
-### ... and more.
+### ... and more. -->

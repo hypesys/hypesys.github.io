@@ -10,6 +10,7 @@ permalink: /team/
 
  **We are looking for new PhD, Master and Bachelor students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+TODO: The students/images will be added with their background.
 
 <!-- Jump to [staff](#staff), [doctorate Students](#Phd-students), [master Students](#Master-students), [Bachelor Students](#Bachelor-students), -->
 
