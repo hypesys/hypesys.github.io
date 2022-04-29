@@ -1,5 +1,5 @@
 - title: "AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs"
-  image: Pairs3.png
+  image: MAE_Control_Flow_updated.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: Ismet Dagli; Alexander Cieslewicz; Jedidiah McClurg; Mehmet E. Belviranli,
   link:
@@ -9,7 +9,7 @@
   news2: 
 
 - title: "PCCS: Processor-Centric Contention-aware Slowdown Model for Heterogeneous System-on-Chips"
-  image: TBG_SL.png
+  image: pccs.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Yuanchao Xu; Mehmet E. Belviranli ; Xipeng Shen; Vetter, Jeffrey S;
   link:
