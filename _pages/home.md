@@ -8,11 +8,10 @@ permalink: /
 
 We are a dynamic research group at the [Colorado School of Mines](https://cs.mines.edu). Our aim is to explore and increse the utilization of heterogeneous systems and create an ecosystem by using different types of computational units, GPUs, FPGAs, DSAs.
 
-
+**TODO_ASK: Any image suggestion to add here? Horizantally scaled images are preferred? I will fix scaling later.**
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        max-height: 40px;
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
     </ol>
@@ -37,7 +36,7 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
 </div>
 
 
-TODO: Fill here with 3-5 sentences of goals and summaries??
+**TODO: Fill here with 3-5 sentences of goals and summaries??**
 
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->

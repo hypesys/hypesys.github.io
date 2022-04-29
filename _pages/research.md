@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-TODO: This part requires more help to explain our works in the lab. Open to all suggestions. I could fill the initial parts since I'm working on those. We can fill the rest. 
+**TODO: This part requires more help to explain our works in the lab. Open to all suggestions. I could fill the initial parts since I'm working on those. We can fill the rest.** 
 
 We, as a group, target high-performance computing for autonomous system. Our research focus is primarily based on heterogeneous architectures, runtime systems, performance modelling, autonomous computing, machine learning acceleration. We target both the computationally-powerful platforms and heterogeneous embedded systems.
 
