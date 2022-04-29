@@ -17,7 +17,9 @@ Our primarily goal is to fill out the gaps in heterogeneous computing by creatin
 Our current research topics are listed below:
 
 **Scheduling in heterogeneous architectures:**
-* Balancing performance/energy trade-off in energy-limited systems: We work on running neural network (NN) inference on multiple accelerators of an SoC. Our goal is to enable an energy-performance trade-off with an by distributing layers in a NN between a performance- and a power-efficient accelerator. We first provide an empirical modeling methodology to characterize execution and inter-layer transition times. We then find an optimal layers-to-accelerator mapping by representing the trade-off as a linear programming optimization constraint. We evaluate our approach on the NVIDIA Xavier AGX SoC with commonly used NN models. We use the Z3 SMT solver to find schedules for different energy consumption targets, with up to 98% prediction accuracy.
+* Balancing performance/energy trade-off in energy-limited systems: 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MAE_Control_Flow_updated.png){: style="width: 250px; float: left; margin: 0px  10px"}
+We work on running neural network (NN) inference on multiple accelerators of an SoC. Our goal is to enable an energy-performance trade-off with an by distributing layers in a NN between a performance- and a power-efficient accelerator. We first provide an empirical modeling methodology to characterize execution and inter-layer transition times. We then find an optimal layers-to-accelerator mapping by representing the trade-off as a linear programming optimization constraint. We evaluate our approach on the NVIDIA Xavier AGX SoC with commonly used NN models. We use the Z3 SMT solver to find schedules for different energy consumption targets, with up to 98% prediction accuracy.
 
 * Multiple workload scheduling in heterogeneous architectures
 
