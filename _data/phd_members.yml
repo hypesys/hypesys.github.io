@@ -9,3 +9,11 @@
   education3:
   education4:
 
+- name: Student 2 
+  photo: blank_image.png
+  info: Testing
+  email: belviranli@mines.edu
+  number_educ: 3
+  education1: Postdoc 
+  education2: PhD 
+  education3: Masters 
