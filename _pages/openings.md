@@ -19,10 +19,10 @@ We are always looking for new group members with passion, talent, and grit! Plea
 
 You will have the chance to work on diversely heterogeneous architectures. You can  be involved in determining the important and interesting research questions, developing analytical performance & resource modeling, developing parallel programming paradigms, facing challenges of autonomous computing.
 
-### Past open positions
+<!-- ### Past open positions
 
 You find the past job openings here:
-[TODO_ASK]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
+[TODO_ASK]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
 
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student , please send me an [email](mailto:belviranli@mines.com) (*belviranli@mines.edu*). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
