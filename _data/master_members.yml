@@ -1,17 +1,13 @@
-- name: Student 1
+- name: Alexander Cieslewicz
   photo: blank_image.png
   info: Testing
-  email: belviranli@mines.edu
+  email: acieslewicz@mines.edu
   number_educ: 3
-  education1: Postdoc 
-  education2: PhD 
-  education3: Masters 
+  education1: Bachelor Degree in Electrical Engineering and Computer Science , Colorado School of Mines
 
-- name: Student 2 
+- name: Austin Latham
   photo: blank_image.png
   info: Testing
-  email: belviranli@mines.edu
+  email: aclatham@mines.edu
   number_educ: 3
-  education1: Postdoc 
-  education2: PhD 
-  education3: Masters 
+  education1: Bachelor Degree in Computer Science , Colorado School of Mines
