@@ -88,93 +88,93 @@
   highlight: 0
   news2:
 
-- title: ""
+- title: "Wireframe: Supporting data-dependent parallelism through dependency graph execution in gpus"
   image: 
   description:
-  authors: 
+  authors: AmirAli Abdolrashidi, Devashree Tripathy, Mehmet Esat Belviranli, Laxmi Narayan Bhuyan, Daniel Wong
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/3123939.3123976
+    display: MICRO-50 '2017, Proceedings of the 50th Annual IEEE/ACM International Symposium on Microarchitecture
   highlight: 0
   news2:
 
-- title: ""
+- title: "CuMAS: Data Transfer Aware Multi-Application Scheduling for Shared GPUs"
   image: 
   description:
-  authors: 
+  authors: Mehmet E Belviranli, Farzad Khorasani, Laxmi N Bhuyan, Rajiv Gupta
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/2925426.2926271
+    display: ICS'16, Proceedings of the 2016 International Conference on Supercomputing
   highlight: 0
   news2:
 
-- title: ""
+- title: "Stadium hashing: Scalable and flexible hashing on gpus"
   image: 
   description:
-  authors: 
+  authors: Farzad Khorasani, Mehmet E Belviranli, Rajiv Gupta, Laxmi N Bhuyan
   link:
-    url: 
-    display: 
+    url: https://ieeexplore.ieee.org/abstract/document/7429295
+    display: PACT'15, 2015 International Conference on Parallel Architecture and Compilation
   highlight: 0
   news2:
 
-- title: ""
+- title: "PeerWave: Exploiting Wavefront Parallelism on GPUs with Peer-SM Synchronization"
   image: 
   description:
-  authors: 
+  authors: Mehmet E Belviranli, Peng Deng, Laxmi N Bhuyan, Rajiv Gupta, Qi Zhu
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/2751205.2751243
+    display: ICS'15, Proceedings of the 29th ACM on International Conference on Supercomputing
   highlight: 0
   news2:
 
-- title: ""
+- title: "A paradigm shift in GP-GPU computing: task based execution of applications with dynamic data dependencies"
   image: 
   description:
-  authors: 
+  authors: Mehmet E Belviranli, Chih-Hsun Chou, Laxmi N Bhuyan, Rajiv Gupta
   link:
-    url: 
-    display: 
+    url: DIDC '14, Proceedings of the sixth international workshop on Data intensive distributed computing
+    display: https://dl.acm.org/doi/abs/10.1145/2608020.2608024
   highlight: 0
   news2:
 
-- title: ""
+- title: "Thermal prediction and scheduling of network applications on multicore processors"
   image: 
   description:
-  authors: 
+  authors: Chih-Hsun Chou, Mehmet E Belviranli, Laxmi N Bhuyan
   link:
-    url: 
-    display: 
+    url: https://ieeexplore.ieee.org/abstract/document/6665188
+    display: Architectures for Networking and Communications Systems
   highlight: 0
   news2:
 
-- title: ""
+- title: "A dynamic self-scheduling scheme for heterogeneous multiprocessor architectures"
   image: 
   description:
-  authors: 
+  authors: Mehmet E Belviranli, Laxmi N Bhuyan, Rajiv Gupta
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/2400682.2400716
+    display: TACO'13, ACM Transactions on Architecture and Code Optimization
   highlight: 0
   news2:
 
-- title: ""
+- title: "CiSE: A circular spring embedder layout algorithm"
   image: 
   description:
-  authors: 
+  authors: Ugur Dogrusoz, Mehmet E. Belviranli, Alptug Dilek
   link:
-    url: 
-    display: 
+    url: https://ieeexplore.ieee.org/abstract/document/6295613
+    display: IEEE Transactions on Visualization and Computer Graphics
   highlight: 0
   news2:
 
-- title: ""
+- title: "VISIBIOweb: visualization and layout services for BioPAX pathway models"
   image: 
   description:
-  authors: 
+  authors: Alptug Dilek, Mehmet E. Belviranli, Ugur Dogrusoz
   link:
-    url: 
-    display: 
+    url: https://academic.oup.com/nar/article-abstract/38/suppl_2/W150/1102602
+    display: Nucleic Acids Research, Volume 38
   highlight: 0
   news2:
 
