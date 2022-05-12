@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=8FX4WfwAAAAJ&hl=en))
+(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=8FX4WfwAAAAJ&hl=en))
 
 **TODO: Fill here with more publications.**
 
