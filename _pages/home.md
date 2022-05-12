@@ -36,12 +36,14 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
 </div>
 
 
-**TODO: Fill here with 3-5 sentences of goals and summaries??**
+
+We are always looking for new group members with passion, talent, and grit! Please check the [research flyer]({{ site.baseurl }}/downloads/belviranli-research-flyer.pdf). If you are interested in doing research in our group, please do not hesitate to [email](mailto:belviranli@mines.com) (*belviranli@mines.edu*).
+
+You will have the chance to work on diversely heterogeneous architectures. You can  be involved in determining the important and interesting research questions, developing analytical performance & resource modeling, developing parallel programming paradigms, facing challenges of autonomous computing.
 
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->
 
- **We are  looking for passionate new PhD students, Master students and Bachelor students to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->

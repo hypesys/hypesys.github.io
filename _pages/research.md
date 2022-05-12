@@ -12,29 +12,32 @@ permalink: /research/
 
 We, as a group, target high-performance computing for autonomous system. Our research focus is primarily based on heterogeneous architectures, runtime systems, performance modelling, autonomous computing, machine learning acceleration. We target both the computationally-powerful platforms and heterogeneous embedded systems.
 
-Our primarily goal is to fill out the gaps in heterogeneous computing by creating a system that can both efficiently use the resources on a given computing platform and maximize the effectiveness of accelerators. This is possible thanks to Mehmet's expertise on the area. He finished his post-doctoral study and work as a computer scientist at Oak Ridge National Laboratory (ORNL) on Computer Science and Mathematics Division Department. ORNL holds Summit supercomputer, which is the fastest supercomputer in USA for the last 4 years. His Ph.D. dissertation topic was also "Efficient Execution of Scientific Applications on Heterogeneous Architectures”. We also have multiple Ph.D., master and bachelor students from multiple areas with a deep background that works on our lab. 
+Our primarily goal is to fill out the gaps in heterogeneous computing by creating a system that can both efficiently use the resources on a given computing platform and maximize the effectiveness of accelerators. This is possible thanks to Mehmet's expertise on the area. He finished his post-doctoral study and work as a computer scientist at Oak Ridge National Laboratory (ORNL) on Computer Science and Mathematics Division Department. ORNL holds Summit supercomputer, which is the fastest supercomputer in USA for the last 4 years and the second among the world. His Ph.D. dissertation topic was also "Efficient Execution of Scientific Applications on Heterogeneous Architectures”. We also have multiple Ph.D., master and bachelor students from multiple areas with a deep background that works on our lab. 
 
 Our current research topics are listed below:
 
+**Low latency motion tracking for Autonomous Discovery Drones:**
+* Autonomous Discovery & Intercept missions can provide valuable intel against an adversary. While prior work has been completed into individual parts of such a system, there is no open established framework for this task. As such there is a need for a former framework to be developed, that can serve as the basis for further research. This project builds a framework for an autonomous interception drone. Included in this framework are a physical and simulated test platform as well as the detection and control software for this scenario.
+
+**CloudRenderVR: Motion-prediction based Speculative Cloud rendering for VR platforms**
+* The project spans three components: The server, to render frames and update the game world. The model, to predict future human motion to allow for preemptive rendering. And, the client, to record pose data and communicate with both the server and the model.  
+
+**Graph-based analytical computation models for autonomous software and heterogeneous hardware**
+*In this project, we will build FLAME, a graph-based machine representation to flexibly model a given hardware design at any desired resolution while providing the ability to refine specific components along the hierarchy. FLAME allows each processing unit in the system to declare its specific capabilities and enables higher level elements to reuse and leverage these declarations to form more complex system topologies.
+
 **Scheduling in heterogeneous architectures:**
 * Balancing performance/energy trade-off in energy-limited systems: 
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MAE_Control_Flow_updated.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/MAE_Control_Flow_updated.png){: style="width: 200px; float: left; margin: 0px  8px"}
 We work on running neural network (NN) inference on multiple accelerators of an SoC. Our goal is to enable an energy-performance trade-off with an by distributing layers in a NN between a performance- and a power-efficient accelerator. We first provide an empirical modeling methodology to characterize execution and inter-layer transition times. We then find an optimal layers-to-accelerator mapping by representing the trade-off as a linear programming optimization constraint. We evaluate our approach on the NVIDIA Xavier AGX SoC with commonly used NN models. We use the Z3 SMT solver to find schedules for different energy consumption targets, with up to 98% prediction accuracy.
 
-* Multiple workload scheduling in heterogeneous architectures
-
-* Exploiting multi-accelerators in diversely heterogeneous architectures: We investigate Multi-accelerator Execution (MAE) on diversely heterogeneous embedded systems, where sub-components of a given workload, such as neural network inference, can be assigned to different type of accelerators to achieve a desired latency or energy goal. We first analyze the energy and performance characteristics of execution of neural network layers on different type of accelerators. We then explore energy/performance trade-offs via layer-wise scheduling for neural network inference by considering different layer-to-accelerator mappings. Our empirical results on Jetson Xavier SoCs show that our methodology can provide up to 28% energy/performance trade-off benefit when compared to the case where all layers are assigned to a single accelerator.
+* Multiple workload scheduling in heterogeneous architectures: We investigate Multi-accelerator Execution (MAE) on diversely heterogeneous embedded systems, where sub-components of a given workload, such as neural network inference, can be assigned to different type of accelerators to achieve a desired latency or energy goal. We first analyze the energy and performance characteristics of execution of neural network layers on different type of accelerators. We then explore energy/performance trade-offs via layer-wise scheduling for neural network inference by considering different layer-to-accelerator mappings.
 
 
 **Autonomous Systems:**
-* Scheduling and resource management
-
-* Hardware-CPS representation for performance modelling
+* Hardware-CPS representation for performance modelling: Many cyber-physical systems (CPS) such as robots and self-driving cars pose strict timing requirements to avoid failure.These time-critical requirements limit the operating conditions of the system—e.g., driving slowly to ensure sufficient braking time to avoid a crash. We propose the creation of a structured system, the Constrained Autonomous Workload Scheduler (CAuWS). By using a representative language (AuWL), Timed Petri nets, and mixed-integer linear programming, CAuWS offers novel capabilities to represent and schedule many types of heterogeneous CPSs, real world constraints, and optimization criteria, creating a schedule of the optimal assignment of processors to tasks. This structured and general approach differs from current ad-hoc approaches which are either created for specific optimization criteria, architectures, or CPSs; or which don't consider physical constraints.
 
 **GPU Utilization**
 * Designing GPU to NVM data-transfer framework
-
-* 
 
 
 
