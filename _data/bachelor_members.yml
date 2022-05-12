@@ -1,17 +1,24 @@
-- name: Student 1
+- name: Andrew Mueller
   photo: blank_image.png
-  info: Testing
-  email: belviranli@mines.edu
-  number_educ: 3
-  education1: Postdoc 
-  education2: PhD 
-  education3: Masters 
+  email: mueller@mines.edu
+  number_educ: 0
 
-- name: Student 2 
+- name: Allyssa Rued
   photo: blank_image.png
-  info: Testing
-  email: belviranli@mines.edu
-  number_educ: 3
-  education1: Postdoc 
-  education2: PhD 
-  education3: Masters 
+  email: allyssaarued@mines.edu
+  number_educ: 0
+  
+- name: Andrew Depke
+  photo: blank_image.png
+  email: andrewdepke@mines.edu
+  number_educ: 0
+
+- name: Christopher Cathcart
+  photo: blank_image.png
+  email: cscathcart@mines.edu
+  number_educ: 0
+
+- name: Walden Ruemmele
+  photo: blank_image.png
+  email: ruemmele@mines.edu
+  number_educ: 0
