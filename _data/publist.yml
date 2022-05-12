@@ -58,33 +58,33 @@
   highlight: 1
   news2:
 
-- title: ""
+- title: "DRAGON: breaking GPU memory capacity limits with direct NVM access"
   image: 
   description:
-  authors: 
+  authors: Pak Markthub, Mehmet E Belviranli, Seyong Lee, Jeffrey S Vetter, Satoshi Matsuoka
   link:
-    url: 
-    display: 
+    url: https://ieeexplore.ieee.org/abstract/document/8665804
+    display: SC'18, International Conference for High Performance Computing, Networking, Storage and Analysis
   highlight: 0
   news2:
 
-- title: ""
+- title: "Designing Algorithms for the EMU Migrating-threads-based Architecture"
   image: 
   description:
-  authors: 
+  authors: Mehmet E Belviranli, Seyong Lee, Jeffrey S Vetter
   link:
-    url: 
-    display: 
+    url: https://ieeexplore.ieee.org/abstract/document/8547571
+    display: 2018 HPEC, IEEE High Performance extreme Computing Conference
   highlight: 0
   news2:
 
-- title: ""
+- title: "Juggler: a dependence-aware task-based execution framework for GPUs"
   image: 
   description:
   authors: 
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/3178487.3178492
+    display: PPoPP'18, Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
   highlight: 0
   news2:
 
