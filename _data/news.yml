@@ -11,7 +11,7 @@
   headline: "Our lab was awarded an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124010). We will be developing synthesis based solutions to enable resource-aware execution on diversely heterogeneous architectures. <img src='/images/newspic/nsf_sign.jpg' class='img-responsive' style='max-width: 192px' />"
 
 - date: July 2021
-  headline: "Our paper is accepted to appear in <a href='https://www.microarch.org/micro54/' MICRO'21 </a>. The paper builds a shared memory contention slowdown model for diversely heterogeneous SoCs."
+  headline: "Our paper is accepted to appear in [MICRO'21](https://www.microarch.org/micro54). The paper builds a shared memory contention slowdown model for diversely heterogeneous SoCs."
 
 # - date: 16. March 2021
 #   headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
