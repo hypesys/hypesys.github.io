@@ -29,13 +29,13 @@
   news2:
 
 - title: "A computational-graph partitioning method for training memory-constrained DNNs"
-  image: 
+  image: parco21.png
   description:
   authors: Fareed Qararyah, Mohamed Wahib, Doğa Dikbayır, Mehmet E. Belviranli , Didem Unat
   link:
     url: https://dx.doi.org/10.1038/s41535-020-00303-4
     display: Parallel Computing, 2021, 102792, ISSN 0167-8191
-  highlight: 0
+  highlight: 1
   news2:
 
 # - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
