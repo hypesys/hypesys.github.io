@@ -50,7 +50,7 @@
 
 - title: "FLAME: Graph-based hardware representations for rapid and precise performance modeling"
   image: date19.png
-  description: we introduce FLAME, a graph-based machine representation to flexibly model a given hardware design at any desired resolution while providing the ability to refine specific components along the hierarchy. FLAME allows each processing unit in the system to declare its specific capabilities and enables higher level elements to reuse and leverage these declarations to form more complex system topologies. Applications are characterized with the Aspen application model; each component has the ability to report its characteristic behavior for a given application model against a supported metric.
+  description: We introduce FLAME, a graph-based machine representation to flexibly model a given hardware design at any desired resolution while providing the ability to refine specific components along the hierarchy. FLAME allows each processing unit in the system to declare its specific capabilities and enables higher level elements to reuse and leverage these declarations to form more complex system topologies. Applications are characterized with the Aspen application model; each component has the ability to report its characteristic behavior for a given application model against a supported metric.
   authors: Mehmet E Belviranli, Jeffrey S Vetter
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8747521

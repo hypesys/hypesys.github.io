@@ -8,7 +8,6 @@ permalink: /
 
 We are a dynamic research group at the [Colorado School of Mines](https://cs.mines.edu). Our aim is to explore and increse the utilization of heterogeneous systems and create an ecosystem by using different types of computational units such as GPUs, FPGAs, and DSAs.
 
-**TODO_ASK: Any image suggestion to add here? Horizantally scaled images are preferred? I will fix scaling later.**
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
