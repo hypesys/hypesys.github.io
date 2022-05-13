@@ -1,5 +1,5 @@
 - date: February 2022
-  headline: "<a href='https://hpss.mines.edu/downloads/dac22.pdf'> Our paper </a> is accepted to appear in [DAC'22] (https://www.dac.com). The paper proposes an energy-aware neural network inference execution scheme on multi-accelerator heterogeneous SoCs."
+  headline: "<a href='https://hpss.mines.edu/downloads/dac22.pdf'> Our paper </a> is accepted to appear in [DAC'22](https://www.dac.com). The paper proposes an energy-aware neural network inference execution scheme on multi-accelerator heterogeneous SoCs."
 
 - date: January 2022
   headline: "<a href='https://hpss.mines.edu/downloads/dragon_poster.pdf'> One of our poster </a> has won the Best Research Poster in [CMAPP](https://mapp.mines.edu/) (Computing-Mines Affiliates Partnership Program). Our another group poster has won Best Runner-Up Research Poster Award. "
@@ -14,7 +14,7 @@
   headline: "Our paper is accepted to appear in [MICRO'21](https://www.microarch.org/micro54). The paper builds a shared memory contention slowdown model for diversely heterogeneous SoCs."
 
 - date: Mar 2021
-  headline: "Prof. Belviranli has been granted [U.S. Air Force Research Lab Summer Faculty Fellowship Award] (https://afsffp.sysplus.com/) for Summer'21."
+  headline: "Prof. Belviranli has been granted U.S. Air Force Research Lab Summer Faculty Fellowship Award](https://afsffp.sysplus.com/) for Summer'21."
 
 - date: Sept 2020
   headline: "Xilinx equipment and license donation. Thanks Xilinx!"
@@ -23,7 +23,7 @@
   headline: "Our paper is accepted to appear in [PACT'20](https://pact20.cc.gatech.edu/). The paper is authored by my former mentee, Mohammad Monil, and develops a smart dial for energy/performance tradeoff for diversely heterogeneous systems."
 
 - date: Oct 2019
-  headline: "Prof. Belviranli has been received with [Oak Ridge National Laboratory (ORNL) Significant Event Award] (https://excl.ornl.gov) for my contributions on the renovation of the ExCL laboratory"
+  headline: "Prof. Belviranli has been received with [Oak Ridge National Laboratory (ORNL) Significant Event Award](https://excl.ornl.gov) for my contributions on the renovation of the ExCL laboratory"
 
 # - date: 16. March 2021
 #   headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
