@@ -8,7 +8,7 @@
   headline: "<a href='https://hpss.mines.edu/downloads/rsdha21.pdf'> Our paper </a> is accepted to appear in RSDHA'21 (2021 IEEE/ACM Redefining Scalability for Diversely Heterogeneous Architectures Workshop). The paper analyzes the energy and performance characteristics of execution of neural network layers on different type of accelerators."
 
 - date: August 2021
-  headline: "Our lab was awarded an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124010). We will be developing synthesis based solutions to enable resource-aware execution on diversely heterogeneous architectures. <img src='/images/newspic/nsf_sign.jpg' class='img-responsive' style='max-width: 192px' />"
+  headline: "Our lab was awarded an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124010). We will be developing synthesis based solutions to enable resource-aware execution on diversely heterogeneous architectures."
 
 - date: July 2021
   headline: "Our paper is accepted to appear in [MICRO'21](https://www.microarch.org/micro54). The paper builds a shared memory contention slowdown model for diversely heterogeneous SoCs."
