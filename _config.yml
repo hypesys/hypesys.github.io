@@ -10,7 +10,8 @@ title: 𝕙𝘆𝕡𝗲𝕤𝘆𝕤 - High Performance Systems and Software
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the 𝕙𝘆𝕡𝗲𝕤𝘆𝕤 - High Performance Systems and Software
-baseurl: "https://hpss.mines.edu"
+  #baseurl: "https://hpss.mines.edu"
+baseurl: ""
 url: ""
 
 include:

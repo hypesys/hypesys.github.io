@@ -6,23 +6,41 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Colorado School of Mines](https://cs.mines.edu). Our aim is to explore and increse the utilization of heterogeneous systems and create an ecosystem by using different types of computational units such as GPUs, FPGAs, and DSAs.
+We are a dynamic research group at the [Colorado School of Mines](https://cs.mines.edu). We focus on improving the performance and utilization of a wide range of computing systems. We create ecosystems to efficiently integrate high performance computing into real-life applications.
+
+We work on a wide range of research topics, including:
+  <ul>
+      <li>Diversely heterogeneous architectures</li>
+      <li>Performance & resource modeling</li>
+      <li>AI acceleration</li>
+      <li>Autonomous computing</li>
+      <li>Parallel programming paradigms</li>
+      <li>Runtime systems</li>
+      <li>Large-scale superconducting computers</li>
+      <li>Next generation transistors</li>
+
+  </ul>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cs_mines_wide.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mines_campus.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Slide 2" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider3.jpg" alt="Slide 3" />
+        </div>
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -38,7 +56,7 @@ We are a dynamic research group at the [Colorado School of Mines](https://cs.min
 
 We are always looking for new group members with passion, talent, and grit! Please check the [research flyer]({{ site.baseurl }}/downloads/belviranli-research-flyer.pdf). If you are interested in doing research in our group, please do not hesitate to [email](mailto:belviranli@mines.com) (*belviranli@mines.edu*).
 
-You will have the chance to work on diversely heterogeneous architectures. You can  be involved in determining the important and interesting research questions, developing analytical performance & resource modeling, developing parallel programming paradigms, facing challenges of autonomous computing.
+Researchers in our group have the opportunity to work on a wide range diversely heterogeneous architectures, including mobile and autonomous system on chips and high performance servers. Our research involves in exploring real-life problems, raising interesting research questions, understanding performance of complex systems, creating solutions for performance, energy and resource efficient execution, developing runtimes for autonomous systems. We publish our research in premiere computer science and engineering conferences and journals. 
 
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->

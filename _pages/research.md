@@ -21,13 +21,14 @@ We develop circuit, microarchitectural simulation, and analytical models for the
 # Research Projects
 
 **Low latency motion tracking for Autonomous Discovery Drones:**
-* Autonomous Discovery & Intercept missions can provide valuable intel against an adversary. While prior work has been completed into individual parts of such a system, there is no open established framework for this task. As such there is a need for a former framework to be developed, that can serve as the basis for further research. This project builds a framework for an autonomous interception drone. Included in this framework are a physical and simulated test platform as well as the detection and control software for this scenario.
+
+Autonomous Discovery & Intercept missions can provide valuable intel against an adversary. While prior work has been completed into individual parts of such a system, there is no open established framework for this task. As such there is a need for a former framework to be developed, that can serve as the basis for further research. This project builds a framework for an autonomous interception drone. Included in this framework are a physical and simulated test platform as well as the detection and control software for this scenario.
 
 **CloudRenderVR: Motion-prediction based Speculative Cloud rendering for VR platforms**
 * The project spans three components: The server, to render frames and update the game world. The model, to predict future human motion to allow for preemptive rendering. And, the client, to record pose data and communicate with both the server and the model.  
 
 **Graph-based analytical computation models for autonomous software and heterogeneous hardware**
-* In this project, we will build FLAME, a graph-based machine representation to flexibly model a given hardware design at any desired resolution while providing the ability to refine specific components along the hierarchy. FLAME allows each processing unit in the system to declare its specific capabilities and enables higher level elements to reuse and leverage these declarations to form more complex system topologies.
+* In this project, we build FLAME, a graph-based machine representation to flexibly model a given hardware design at any desired resolution while providing the ability to refine specific components along the hierarchy. FLAME allows each processing unit in the system to declare its specific capabilities and enables higher level elements to reuse and leverage these declarations to form more complex system topologies.
 
 **Scheduling in heterogeneous architectures:**
 * Balancing performance/energy trade-off in energy-limited systems: 
