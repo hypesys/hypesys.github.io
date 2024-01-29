@@ -1,11 +1,11 @@
 - name: Mehmet E. Belviranli
   photo: mehmet_belviranli.jpg
-  info: Assistant professor, started Fall 2019, [Personal website](https://mehmet.belviranli.com)
+  info: Assistant professor, Computer Science, Colorado School of Mines, [Personal website](https://mehmet.belviranli.com)
   email: belviranli@mines.edu
   number_educ: 3
-  education1: Postdoc with <a href='https://www.ornl.gov/staff-profile/jeffrey-s-vetter'>Jeffrey S. Vetter</a>, Oak Ridge National Laboratory
-  education2: PhD with Laxmi N. Bhuyan, University of California, Riverside
-  education3: Masters with Ugur Dogrusoz, Bilkent University
+  education1: Oak Ridge National Laboratory, Staff Scientist, 2016-2019
+  education2: Ph.D. degree received in 2016 at University of California, Riverside
+  
 
 # - name: Milan P Allan
 #   photo: Milan1.jpg

@@ -20,7 +20,7 @@ We develop circuit, microarchitectural simulation, and analytical models for the
 
 # Research Projects
 
-**Low latency motion tracking for Autonomous Discovery Drones:**
+**Low latency motion tracking for Autonomous Discovery Drones**
 
 Autonomous Discovery & Intercept missions can provide valuable intel against an adversary. While prior work has been completed into individual parts of such a system, there is no open established framework for this task. As such there is a need for a former framework to be developed, that can serve as the basis for further research. This project builds a framework for an autonomous interception drone. Included in this framework are a physical and simulated test platform as well as the detection and control software for this scenario.
 
