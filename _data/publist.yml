@@ -1,3 +1,14 @@
+- title: "Context-aware Multi-Model Object Detection for Diversely Heterogeneous Compute Systems"
+  image: date24_table.png
+  description: We propose the use of multiple accelerators and many distinct object detection deep neural networks to improve the energy efficiency of continuous object detection scenarios.
+  authors: Justin Davis, Mehmet E. Belviranli
+  link:
+    url: https://hpss.mines.edu/downloads/date24.pdf
+    display: 2024 Design, Automation & Test in Europe Conference & Exhibition
+  highlight: 1
+  news1: Won outstanding paper in the autonomuous system design intiative at DATE24
+  news2:
+
 - title: "AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs"
   image: MAE_Control_Flow_updated.png
   description: we propose running neural network (NN) inference on multiple accelerators. Our goal is to provide an energyperformance trade-off by distributing layers in the NN between a performance- and a power-efficient accelerator. We first provide an empirical modeling methodology to characterize execution and inter-layer transition times. We then find an optimal layerto-accelerator mapping, by representing the trade-off as a linear programming optimization constraint.

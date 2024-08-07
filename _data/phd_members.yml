@@ -6,16 +6,23 @@
   education1: Bachelor Degree in Computer Engineering , Bogazici University
   education2: Ph.D. Intern, Pacific Northwest National Laboratory
 
-- name: Justin McGowen
-  photo: blank_image.png
-  info: Ph.D. Student, started Fall 2020
-  email: jmcgowen@mines.edu
-  number_educ: 1
-  education1: Bachelor Degree in Computer Science 
+# - name: Justin McGowen
+#   photo: blank_image.png
+#   info: Ph.D. Student, started Fall 2020
+#   email: jmcgowen@mines.edu
+#   number_educ: 1
+#   education1: Bachelor Degree in Computer Science 
 
 - name: Benjamin Wagley
   photo: bwagley_portrait_square.jpg
   info: Ph.D. Student, started Spring 2022
   email: bwagley@mines.edu
+  number_educ: 1
+  education1: Bachelor Degree in Computer Science , Colorado School of Mines
+
+- name: Justin Davis
+  photo: justin_davis.jpg
+  info: Ph.D. Student, started Spring 2023
+  email: jcdavis@mines.edu
   number_educ: 1
   education1: Bachelor Degree in Computer Science , Colorado School of Mines

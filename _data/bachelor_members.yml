@@ -18,12 +18,17 @@
   email: cscathcart@mines.edu
   number_educ: 0
 
-- name: Justin Davis
-  photo: blank_image.png
-  email: jcdavis@mines.edu
-  number_educ: 0
+# - name: Justin Davis
+#   photo: blank_image.png
+#   email: jcdavis@mines.edu
+#   number_educ: 0
 
 - name: Walden Ruemmele
   photo: blank_image.png
   email: ruemmele@mines.edu
+  number_educ: 0
+
+- name: James Crea
+  photo: blank_image.png
+  email: jcrea@mines.edu
   number_educ: 0
