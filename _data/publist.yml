@@ -6,7 +6,7 @@
     url: https://hpss.mines.edu/downloads/date24.pdf
     display: 2024 Design, Automation & Test in Europe Conference & Exhibition
   highlight: 1
-  news1: Won outstanding paper in the autonomuous system design intiative at DATE24
+  news1: Won outstanding paper in the autonomous system design intiative at DATE24
   news2:
 
 - title: "AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs"
