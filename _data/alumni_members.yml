@@ -45,11 +45,13 @@
   number_educ: 0
 
 - name: Christopher Cathcart
+  photo: blank_image.png
   info: Bachelor Student
   email: cscathcart@mines.edu
   number_educ: 0
 
 - name: Walden Ruemmele
+  photo: blank_image.png
   info: Bachelor Student
   email: ruemmele@mines.edu
   number_educ: 0
