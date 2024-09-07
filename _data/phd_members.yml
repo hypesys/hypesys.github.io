@@ -1,17 +1,10 @@
 - name: Ismet Dagli
   photo: ismet_dagli.jpg
-  info: Ph.D. Student, started Spring 2020
+  info: Ph.D. Student, started Spring 2020, [Personal website](https://ismetdagli.github.io/)
   email: ismetdagli@mines.edu
   number_educ: 2
   education1: Bachelor Degree in Computer Engineering , Bogazici University
   education2: Ph.D. Intern, Pacific Northwest National Laboratory
-
-# - name: Justin McGowen
-#   photo: blank_image.png
-#   info: Ph.D. Student, started Fall 2020
-#   email: jmcgowen@mines.edu
-#   number_educ: 1
-#   education1: Bachelor Degree in Computer Science 
 
 - name: Benjamin Wagley
   photo: bwagley_portrait_square.jpg

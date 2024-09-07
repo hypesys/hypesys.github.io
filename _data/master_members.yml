@@ -1,20 +1,6 @@
-- name: Alexander Cieslewicz
+- name: Ryan Marsala
   photo: blank_image.png
   info: Master with Thesis Student
-  email: acieslewicz@mines.edu
+  email: ramarsala@mines.edu
   number_educ: 1
-  education1: Bachelor Degree in Electrical Engineering and Computer Science , Colorado School of Mines
-
-- name: Austin Latham
-  photo: blank_image.png
-  info: Master Student
-  email: aclatham@mines.edu
-  number_educ: 1
-  education1: Bachelor Degree in Computer Science , Colorado School of Mines
-
-- name: Dong Lee
-  photo: blank_image.png
-  info: Master Student
-  email: lee2@mines.edu
-  number_educ: 1
-  education1: Bachelor Degree in Computer Science , Colorado School of Mines
+  education1: Bachelor Degree in Computer Science, Colorado School of Mines

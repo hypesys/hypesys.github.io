@@ -1,34 +1,17 @@
-- name: Allyssa Rued
-  photo: blank_image.png
-  email: allyssaarued@mines.edu
-  number_educ: 0
-  
-- name: Andrew Depke
-  photo: blank_image.png
-  email: andrewdepke@mines.edu
-  number_educ: 0
-
-- name: Andrew Mueller
-  photo: blank_image.png
-  email: mueller@mines.edu
-  number_educ: 0
-
-- name: Christopher Cathcart
-  photo: blank_image.png
-  email: cscathcart@mines.edu
-  number_educ: 0
-
-# - name: Justin Davis
-#   photo: blank_image.png
-#   email: jcdavis@mines.edu
-#   number_educ: 0
-
-- name: Walden Ruemmele
-  photo: blank_image.png
-  email: ruemmele@mines.edu
-  number_educ: 0
-
 - name: James Crea
   photo: blank_image.png
   email: jcrea@mines.edu
   number_educ: 0
+
+
+- name: Colter Snyder
+  photo: blank_image.png
+  email: csnyder1@mines.edu
+  number_educ: 0
+
+- name: Hunter Stone
+  photo: blank_image.png
+  email: hstone@mines.edu
+  number_educ: 0
+
+
